@@ -3,7 +3,7 @@
 
 ![Main pic](https://github.com/SergioUS/Apple-and-X-AI-testing-project/blob/main/Project%20Header.png)
 
-### 🚀 Комплексное тестирование веб-приложений
+### 🚀 Comprehensive Web Application Testing
 **Frontend • API • Performance • Security**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
@@ -17,48 +17,48 @@
 
 ---
 
-## 📋 Обзор проекта
+## 📋 Project Overview
 
-Этот проект демонстрирует **комплексный подход к тестированию** современных веб-приложений, включая автоматизацию UI, API, производительность и безопасность.
+This project demonstrates a **comprehensive testing approach** for modern web applications, including UI automation, API testing, performance monitoring, and security validation.
 
-### 🎯 Основные направления
+### 🎯 Key Focus Areas
 
 <table>
   <tr>
     <td align="center" width="25%">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="60" height="60"/>
       <br><strong>Frontend UI</strong>
-      <br>Автоматизация интерфейса
+      <br>Interface automation
     </td>
     <td align="center" width="25%">
       <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="60" height="60"/>
       <br><strong>API Testing</strong>
-      <br>REST API валидация
+      <br>REST API validation
     </td>
     <td align="center" width="25%">
       <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="60" height="60"/>
       <br><strong>Performance</strong>
-      <br>Нагрузочное тестирование
+      <br>Load testing
     </td>
     <td align="center" width="25%">
       <img src="https://cdn-icons-png.flaticon.com/512/2092/2092063.png" width="60" height="60"/>
       <br><strong>Security</strong>
-      <br>Тестирование безопасности
+      <br>Security testing
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠 Технологический стек
+## 🛠 Technology Stack
 
 <div align="center">
 
-| Категория | Технологии |
+| Category | Technologies |
 |-----------|------------|
-| **Языки** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Автоматизация** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=flat&logo=python&logoColor=white) |
-| **Тестирование** | ![unittest](https://img.shields.io/badge/unittest-FF6B6B?style=flat&logo=python&logoColor=white) ![HTMLTestRunner](https://img.shields.io/badge/HTMLTestRunner-4ECDC4?style=flat) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Automation** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=flat&logo=python&logoColor=white) |
+| **Testing** | ![unittest](https://img.shields.io/badge/unittest-FF6B6B?style=flat&logo=python&logoColor=white) ![HTMLTestRunner](https://img.shields.io/badge/HTMLTestRunner-4ECDC4?style=flat) |
 | **Performance** | ![GTmetrix](https://img.shields.io/badge/GTmetrix-FF6900?style=flat) ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat&logo=lighthouse&logoColor=white) |
 | **Security** | ![Observatory](https://img.shields.io/badge/HTTP_Observatory-FF0000?style=flat) ![Astra](https://img.shields.io/badge/Astra-6C5CE7?style=flat) |
 | **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) |
@@ -67,69 +67,35 @@
 
 ---
 
-## 📂 Структура проекта
-
-```
-Apple-and-X-AI-testing-project/
-├── 📖 01_Documentation/
-├── 🖥️  02_Front_end_Testing/
-│   ├── 👤 Tatsiana Lentz/
-│   ├── 👤 Milana Binaminova/
-│   ├── 👤 Sergiy Borovich/
-│   ├── 👤 Viktor Pervushkin/
-│   ├── 👤 Assiya Beribassova/
-│   ├── 👤 Lina Gorelik/
-│   ├── 👤 Daria Bataeva/
-│   └── 👤 Anton Buyanovski/
-├── ⚡ 03_Performance_testing/
-│   ├── 📊 GTmetrix/
-│   ├── 🔍 Lighthouse/
-│   └── 🚀 SpeedLab/
-├── 🛡️  04_Security_testing/
-│   ├── 🔒 HTTP Observatory/
-│   ├── 🛡️  Astra/
-│   └── 🔐 Other Security Tools/
-├── 🔌 05_API_Testing/
-│   ├── 📋 data/
-│   ├── 📄 pages/
-│   └── 🛠️  utils/
-├── 🐛 06_Bug_Reports/
-│   ├── 📝 Individual Reports/
-│   └── 📊 Summary Reports/
-└── 📖 README.md
-```
-
----
-
-## 🎯 Основные возможности
+## 🎯 Key Features
 
 ### ✅ Frontend Testing
-- **Page Object Model** для масштабируемости
-- Кросс-браузерное тестирование
-- Responsive design валидация
-- Автоматические скриншоты при ошибках
+- **Page Object Model** for scalability
+- Cross-browser testing support
+- Responsive design validation
+- Automatic screenshots on failures
 
 ### ✅ API Testing  
-- REST API endpoints валидация
-- Authentication & Authorization тесты
-- Error handling и edge cases
-- Производительность API запросов
+- REST API endpoints validation
+- Authentication & Authorization tests
+- Error handling and edge cases
+- API performance metrics
 
 ### ✅ Performance Testing
-- Lighthouse аудиты
-- GTmetrix мониторинг
-- Нагрузочные тесты
-- Метрики производительности
+- Lighthouse audits
+- GTmetrix monitoring
+- Load testing scenarios
+- Performance metrics tracking
 
 ### ✅ Security Testing
-- HTTP Observatory сканирование
-- SSL/TLS валидация
-- XSS и CSRF проверки
-- Аудит безопасности
+- HTTP Observatory scanning
+- SSL/TLS validation
+- XSS and CSRF checks
+- Security audit reports
 
 ---
 
-## 👥 Наша команда
+## 👥 Our Team
 
 <div align="center">
 
@@ -150,36 +116,36 @@ Apple-and-X-AI-testing-project/
 
 ---
 
-## 🚀 Быстрый старт
+## 🚀 Quick Start
 
-### Предварительные требования
+### Prerequisites
 ```bash
 Python 3.8+
 pip install -r requirements.txt
 ```
 
-### Установка и запуск
+### Installation and Setup
 ```bash
-# Клонировать репозиторий
+# Clone repository
 git clone https://github.com/SergioUS/Apple-and-X-AI-testing-project.git
 
-# Перейти в директорию
+# Navigate to directory
 cd Apple-and-X-AI-testing-project
 
-# Установить зависимости
+# Install dependencies
 pip install -r requirements.txt
 
-# Запустить тесты
+# Run tests
 python -m unittest discover -s tests -v
 ```
 
 ---
 
-## 📊 Результаты тестирования
+## 📊 Testing Results
 
 <div align="center">
 
-### 🎯 Статистика проекта
+### 🎯 Project Statistics
 
 ![Tests](https://img.shields.io/badge/Tests_Passed-98%25-brightgreen)
 ![Coverage](https://img.shields.io/badge/Coverage-85%25-green)
@@ -190,29 +156,29 @@ python -m unittest discover -s tests -v
 
 ---
 
-## 🤝 Вклад в проект
+## 🤝 Contributing
 
-Мы приветствуем вклад в развитие проекта! Пожалуйста:
+We welcome contributions to the project! Please:
 
-1. 🍴 Сделайте Fork проекта
-2. 🌿 Создайте feature branch (`git checkout -b feature/AmazingFeature`)
-3. 💾 Зафиксируйте изменения (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Отправьте в branch (`git push origin feature/AmazingFeature`)
-5. 🔄 Откройте Pull Request
+1. 🍴 Fork the project
+2. 🌿 Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. 💾 Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
+5. 🔄 Open a Pull Request
 
 ---
 
-## 📄 Лицензия
+## 📄 License
 
-Этот проект распространяется под лицензией MIT. Подробности в файле [LICENSE](LICENSE).
+This project is distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
 
 <div align="center">
 
-### 🌟 Если проект оказался полезным, поставьте звездочку! ⭐
+### 🌟 If you found this project helpful, please give it a star! ⭐
 
-**Сделано с ❤️ командой QA Engineers**
+**Made with ❤️ by QA Engineers Team**
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=SergioUS.Apple-and-X-AI-testing-project)
 
