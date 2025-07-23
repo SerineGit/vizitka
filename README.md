@@ -80,6 +80,7 @@ Discover our interactive project architecture through this link:
 | **Security** | ![Observatory](https://img.shields.io/badge/HTTP_Observatory-FF0000?style=flat) ![Astra](https://img.shields.io/badge/Astra-6C5CE7?style=flat) |
 | **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) |
 
+</div>
 ---
 
 ## 🎯 Key Features
@@ -109,6 +110,8 @@ Discover our interactive project architecture through this link:
 - Security audit reports
 
 ---
+
+<div align="center">
 
 ## 👥 Our Team
 
