@@ -109,7 +109,7 @@ Discover our interactive project architecture through this link:
 
 <div align="center">
 
-| 🏆 **Роль** | 👤 **Участник** | 🔗 **LinkedIn** |
+| 🏆 **Role** | 👤 **Member** | 🔗 **LinkedIn** |
 |-------------|-----------------|-----------------|
 | **🎯 Project Lead** | Sergey Efremov | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sefremoff) |
 | **🔍 QA Lead** | Tatsiana Lentz | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatsianalentz) |
