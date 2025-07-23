@@ -1,7 +1,7 @@
 # 🍎 Apple & X.AI Testing Project
 <div align="center">
 
-![Main pic](https://github.com/SergioUS/Apple-and-X-AI-testing-project/blob/main/Project%20Header.png)
+![Main pic](https://github.com/SerineGit/vizitka/blob/main/freepik__dynamic-tracking-shot-an-android-with-artificial-i__80151-ezgif.com-video-to-gif-converter.gif)
 
 ### 🚀 Comprehensive Web Application Testing
 **Frontend • API • Performance • Security**
