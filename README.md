@@ -23,13 +23,16 @@
 
 <div align="center">
 This project demonstrates a **comprehensive testing approach** for modern web applications, including UI automation, API testing, performance monitoring, and security validation.
-</div>
+
 
 
 ## 🌐 Interactive Project Architecture
 
+<div align="center">
 Discover our interactive project architecture through this link:  
 👉[![Explore Now](https://img.shields.io/badge/Explore-Interactive%20Menu-blue?style=for-the-badge&logo=github)](https://serinegit.github.io/Demo-Menu/)
+</div>
+
 
 ### 🎯 Key Focus Areas
 
