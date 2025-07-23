@@ -10,6 +10,7 @@
 [![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green.svg)](https://selenium.dev)
 [![unittest](https://img.shields.io/badge/Testing-unittest-red.svg)](https://docs.python.org/3/library/unittest.html)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 [🌐 Apple.com](https://www.apple.com/) • [🤖 X.AI](https://x.ai/)
 
