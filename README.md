@@ -29,8 +29,11 @@ This project demonstrates a **comprehensive testing approach** for modern web ap
 ## 🌐 Interactive Project Architecture
 
 <div align="center">
+  
 Discover our interactive project architecture through this link:  
+
 👉[![Explore Now](https://img.shields.io/badge/Explore-Interactive%20Menu-blue?style=for-the-badge&logo=github)](https://serinegit.github.io/Demo-Menu/)
+
 </div>
 
 
