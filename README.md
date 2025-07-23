@@ -16,13 +16,13 @@
 </div>
 
 ---
-<div align="center">
+
 ## 📋 Project Overview
-
+<div align="center">
 This project demonstrates a **comprehensive testing approach** for modern web applications, including UI automation, API testing, performance monitoring, and security validation.
-</div><div align="center">
+</div>
 ### 🎯 Key Focus Areas
-
+<div align="center">
 <table>
   <tr>
     <td align="center" width="25%">
