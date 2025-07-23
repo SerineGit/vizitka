@@ -1,5 +1,7 @@
-# 🍎 Apple & X.AI Testing Project
 <div align="center">
+
+# 🍎 Apple & X.AI Testing Project
+
 
 ![Main pic](https://github.com/SerineGit/vizitka/blob/main/freepik__dynamic-tracking-shot-an-android-with-artificial-i__80151-ezgif.com-video-to-gif-converter.gif)
 
@@ -15,31 +17,28 @@
 
 [🌐 Apple.com](https://www.apple.com/) • [🤖 X.AI](https://x.ai/)
 
-</div>
+
 
 ---
 
 ## 📋 Project Overview
 
-<div align="center">
+
 This project demonstrates a **comprehensive testing approach** for modern web applications, including UI automation, API testing, performance monitoring, and security validation.
 
 
 
 ## 🌐 Interactive Project Architecture
 
-<div align="center">
   
 Discover our interactive project architecture through this link:  
 
 👉[![Explore Now](https://img.shields.io/badge/Explore-Interactive%20Menu-blue?style=for-the-badge&logo=github)](https://serinegit.github.io/Demo-Menu/)
 
-</div>
 
 
 ### 🎯 Key Focus Areas
 
-<div align="center">
 <table>
   <tr>
     <td align="center" width="25%">
@@ -66,11 +65,11 @@ Discover our interactive project architecture through this link:
 </table>
 
 ---
-</div>
+
 
 ## 🛠 Technology Stack
 
-<div align="center">
+
 
 | Category | Technologies |
 |-----------|------------|
@@ -80,8 +79,6 @@ Discover our interactive project architecture through this link:
 | **Performance** | ![GTmetrix](https://img.shields.io/badge/GTmetrix-FF6900?style=flat) ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat&logo=lighthouse&logoColor=white) |
 | **Security** | ![Observatory](https://img.shields.io/badge/HTTP_Observatory-FF0000?style=flat) ![Astra](https://img.shields.io/badge/Astra-6C5CE7?style=flat) |
 | **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) |
-
-</div>
 
 ---
 
@@ -115,7 +112,7 @@ Discover our interactive project architecture through this link:
 
 ## 👥 Our Team
 
-<div align="center">
+
 
 | 🏆 **Role** | 👤 **Member** | 🔗 **LinkedIn** |
 |-------------|-----------------|-----------------|
@@ -130,14 +127,8 @@ Discover our interactive project architecture through this link:
 | **🧪 QA Engineer** | Serine Zargaryan | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serinezargaryan) |
 | **🧪 QA Engineer** | Anton Buyanovski | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonb-qa) |
 
-</div>
 
 ---
-
-
-## 📊 Testing Results
-
-<div align="center">
 
 ### 🎯 Project Statistics
 
