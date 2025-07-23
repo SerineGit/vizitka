@@ -116,30 +116,6 @@ This project demonstrates a **comprehensive testing approach** for modern web ap
 
 ---
 
-## 🚀 Quick Start
-
-### Prerequisites
-```bash
-Python 3.8+
-pip install -r requirements.txt
-```
-
-### Installation and Setup
-```bash
-# Clone repository
-git clone https://github.com/SergioUS/Apple-and-X-AI-testing-project.git
-
-# Navigate to directory
-cd Apple-and-X-AI-testing-project
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run tests
-python -m unittest discover -s tests -v
-```
-
----
 
 ## 📊 Testing Results
 
@@ -154,32 +130,3 @@ python -m unittest discover -s tests -v
 
 </div>
 
----
-
-## 🤝 Contributing
-
-We welcome contributions to the project! Please:
-
-1. 🍴 Fork the project
-2. 🌿 Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. 💾 Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
-5. 🔄 Open a Pull Request
-
----
-
-## 📄 License
-
-This project is distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
----
-
-<div align="center">
-
-### 🌟 If you found this project helpful, please give it a star! ⭐
-
-**Made with ❤️ by QA Engineers Team**
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=SergioUS.Apple-and-X-AI-testing-project)
-
-</div>
