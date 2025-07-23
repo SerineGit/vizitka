@@ -18,10 +18,13 @@
 ---
 
 ## 📋 Project Overview
+
 <div align="center">
 This project demonstrates a **comprehensive testing approach** for modern web applications, including UI automation, API testing, performance monitoring, and security validation.
 </div>
+
 ### 🎯 Key Focus Areas
+
 <div align="center">
 <table>
   <tr>
@@ -50,6 +53,7 @@ This project demonstrates a **comprehensive testing approach** for modern web ap
 
 ---
 </div>
+
 ## 🛠 Technology Stack
 
 <div align="center">
