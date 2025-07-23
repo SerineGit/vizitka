@@ -3,7 +3,7 @@
 
 ![Main pic](https://github.com/SerineGit/vizitka/blob/main/freepik__dynamic-tracking-shot-an-android-with-artificial-i__80151-ezgif.com-video-to-gif-converter.gif)
 
-### 🚀 Comprehensive Web Application Testing
+### 🚀 Comprehensive Web Application & AI Testing
 **Frontend • API • Performance • Security**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
