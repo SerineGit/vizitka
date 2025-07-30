@@ -8,11 +8,12 @@
 ### 🚀 Comprehensive Web Application & AI Testing
 **Frontend • API • Performance • Security**
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green.svg)](https://selenium.dev)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
+[![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green.svg)](https://www.selenium.dev)
 [![unittest](https://img.shields.io/badge/Testing-unittest-red.svg)](https://docs.python.org/3/library/unittest.html)
 [![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange.svg)](https://www.postman.com/)
-[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
+[![Status](https://img.shields.io/badge/Status-Active-success.svg)](https://github.com/SerineGit/)
+
 
 
 [🌐 Apple.com](https://www.apple.com/) • [🤖 X.AI](https://x.ai/)
