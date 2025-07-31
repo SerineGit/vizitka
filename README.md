@@ -23,7 +23,7 @@
 
 **👇 If you still dare to proceed... 👇**
 
-[![🌀 ENTER THE PORTAL 🌀](https://img.shields.io/badge/🚪_ENTER_IF_YOU_DARE-FF0000?style=for-the-badge&logo=ghost&logoColor=white&labelColor=000000)](https://serinegit.github.io/project-page/)
+[![🌀 ENTER THE PORTAL 🌀](https://img.shields.io/badge/🚪_ENTER_IF_YOU_DARE-FF0000?style=for-the-badge&logo=ghost&logoColor=white&labelColor=000000)](https://serinegit.github.io/Apple_X.AI_project_page/)
 
 </details>
 
