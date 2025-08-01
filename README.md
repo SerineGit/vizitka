@@ -1,4 +1,7 @@
 <details> <summary>❓ FAQ</summary> <details> <summary>Как установить?</summary> <br> Выполните <code>npm install</code> 
+
+
+    
 ```mermaid
 flowchart TD
     A[Christmas] -->|Get money| B(Go shopping)
