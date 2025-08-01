@@ -1,6 +1,6 @@
 ![GitHub stars](https://img.shields.io/ github/stars/username/repo)
 ![Last commit](https://img.shields.io/ github/last-commit/username/repo)
-![Issues](https://img.shields.io/ github/issues/username/repo)
+![Issues](https://img.shields.io/ github/issues/SerineGit/vizitka)
 
 
 ![Version](https://img.shields.io/badge/ version-1.0.0-blue) 
