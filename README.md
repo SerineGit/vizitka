@@ -1,4 +1,9 @@
+
+## Roadmap - [x] ✅ Базовая функциональность - [x] ✅ Тесты - [ ] 🚧 Документация API - [ ] 📱 Мобильная версия - [ ] 🌐 Интернационализация
+
+
 <details> <summary>❓ FAQ</summary> <details> <summary>Как установить?</summary> <br> Выполните <code>npm install</code> 
+
 
 
     
