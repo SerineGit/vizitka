@@ -1,10 +1,5 @@
-![GitHub stars](https://img.shields.io/ github/stars/username/repo)
-![Last commit](https://img.shields.io/ github/last-commit/username/repo)
-![Issues](https://img.shields.io/ github/issues/SerineGit/vizitka)
+![Dynamic TOML Badge](https://img.shields.io/badge/dynamic/toml)
 
-
-![Version](https://img.shields.io/badge/ version-1.0.0-blue) 
-![Build](https://img.shields.io/badge/ build-passing-brightgreen)
 
 
 ## Roadmap 
